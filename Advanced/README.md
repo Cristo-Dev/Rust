@@ -1,6 +1,7 @@
 # Rust Blockchain
 
-In the 'basic' folder, you will find the fundamentals of Rust programming language with examples to help you get started. Meanwhile, in the 'advanced' folder, I will be uploading more advanced Rust projects throughout this week.
+Here are more advanced projects with Rust.
+
 
 ## Installation and Configuration
 
